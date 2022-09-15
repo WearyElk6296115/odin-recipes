@@ -1,0 +1,32 @@
+body {
+    background-color: #c9c9c9;
+    color: white;
+    font-size: 20px;
+    font-family: "Apple Chancery";
+    margin: 0;
+    padding: 0;
+}
+ 
+header{
+    background-color:#b77d3b;
+    padding: 1px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px
+}
+
+div{
+    background-color: #b77d3b;
+    padding: 2px;
+}
+
+
+
